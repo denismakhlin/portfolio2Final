@@ -1,0 +1,103 @@
+div {
+    border-style: solid;
+    padding: 30px;
+    border-width: 5px;
+    border-color: transparent;
+}
+.container {
+    border-color: transparent;
+}
+.row {
+    border-color: transparent;
+}
+.list-group-item {
+    border: 0;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#h1index {
+    text-align: center;
+    color: white;
+}
+#pindex {
+    text-align: center;
+    color: white;
+}
+p {
+    text-align: center;
+}
+.jumbotron {
+    background-image: url('http://wallpaper-download.net/wallpapers/random-wallpapers-purple-galaxy-background-wallpaper-33303.jpg');
+    margin-top: 10%;
+}
+.panel-body {
+    color: black;
+}
+#imgindex {
+    padding: 1%;
+    box-shadow: 10px 10px 5px #888888;
+}
+#imgprojects {
+    margin-top: 2%;
+    margin-left: 20%;
+    box-shadow: 10px 10px 5px #888888;
+}
+#imgprojects2 {
+    margin-top: 5%;
+    margin-left: 35%;
+    box-shadow: 10px 10px 5px #888888;
+}
+#h1projects {
+    text-align: center;
+    margin-left: 19%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+#pproject {
+    margin-top: 5%;
+        margin-left: 15%;
+}
+#p2projects {
+    margin-top: 5%;
+    margin-left: 20%;
+}
+#h1aboutme {
+    text-align: center;
+    margin-top: 5%;
+}
+#aboutmeparagraph {
+    alignment-adjust: central;
+    margin-left: 20%;
+}
+#imgaboutme {
+    margin-left: 20%;
+}
+#aboutmelink {
+    margin-left: 50%;
+}
+#projectslink {
+    margin-left: 23%;
+}
+#homelink {
+    margin-left: 40%;
+}
+#h1technologies {
+    color: black;
+    margin-top: 10%;
+    margin-left: 40%
+}
+#ptechnologie {
+    color: black;
+}
+#imgtechnology {
+    margin-left: 30%;
+}
+#img2technology {
+    margin-left: 30%;
+}
+#technologylink {
+    margin-left: 25%;
+}
+#imgcontactme {
+    margin-top: 10%;
+}
